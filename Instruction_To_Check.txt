@@ -1,0 +1,6 @@
+1. Download the folder named 'Submission' onto your system
+2. Read through the file named Documentation_sub.pdf
+3. Specify the csv file names in the appropriate text file as described in Documentation_sub.pdf
+4. Run the file named code_for_tess_sub.cpp from the terminal
+5. You can find the output in the files output_2d.tess or output_3d.tess as per the type of tesselation
+   you specified.

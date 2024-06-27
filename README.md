@@ -1,6 +1,6 @@
 # Tessellation of Micro-structurally Aware Domains using Neper
 
-This repository contains my work completed for an independent research project under the supervision of Prof. Ravi Sastry Ayyagari at the Indian Institute of Technology Gandhinagar, Department of Mechanical Engineering.
+This repository contains my work completed for an independent research project under the supervision of Prof. Ravi Sastri Ayyagari at the Indian Institute of Technology Gandhinagar, Department of Mechanical Engineering.
 
 ### Project Overview
 The primary objective of this project was to develop C++ code to generate tessellation files (for both 2-D and 3-D tessellations) using the available grain information to accurately represent microstructurally aware domains.
